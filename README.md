@@ -17,15 +17,15 @@ Cel: Projekty na zaliczenie przedmiotu "Zaawansowane metody ochrony informacji"
 Realizacja szyfru podstawieniowego przy pseudolosowo generowanym kluczu. Aplikacja szyfruje i deszyfruje wybrany przez użytkownika tekst. Na podstawie szyfrogramów program tworzy jego charakterystykę, a dodatkowo przy wczytaniu odpowiednio długiego tekstu jest w stanie wygenerować statystykę wzorcową w celu wykonania kryptoanalizy. Aplikacja przechowuje wszystkie (bez powtórzeń) użyte klucze w archiwum kluczy.
 
 ### Linki:
-* [Dokumentacja](https://bitbucket.org/mgoniprowski/kryptografia/src/1aa70a77eda842be6a50754daeef0de1a406c406/docs/Dokumentacje/?at=master)
-* [Aplikacja](https://bitbucket.org/mgoniprowski/kryptografia/src/1aa70a77eda842be6a50754daeef0de1a406c406/docs/Aplikacja/?at=master)
+* [Dokumentacja](https://github.com/mgonip/Kryptografia/tree/master/docs/Dokumentacje)
+* [Aplikacja](https://github.com/mgonip/Kryptografia/tree/master/docs/Aplikacja)
 
 ## Branch projekt2:
 ###Opis:
 Realizacja szyfrów DES, AES i RC4. Aplikacja szyfruje i deszyfruje tekst użytkownika wybranym przez niego algorytmem. Wersja pozbawiona funkcji generowania statystyki wzorcowej, tworzenia charakterystyki szyfrogramu oraz kryptoanalizy.
 
 ### Linki:
-* [Aplikacja](https://bitbucket.org/mgoniprowski/kryptografia/src/1aa70a77eda842be6a50754daeef0de1a406c406/docs/Projekt2/Aplikacja/?at=master)
+* [Aplikacja](https://github.com/mgonip/Kryptografia/tree/master/docs/Projekt2/Aplikacja)
 
 ## Wymagane oprogramowanie:
 Poza małymi wymaganiami sprzętowymi, niezbędne do działania programu jest oprogramowanie wymienione poniżej: 
@@ -38,4 +38,4 @@ które dostępne są w sekcji Linki. W celu korzystania z archiwum kluczy należ
 istnieje w folderze programu) o nazwie „klucze” z rozszerzeniem *.txt.
 
 ## Prawa autorskie i licencja:
-Copyright 2015 Niesuch, Zecior, Mgonip, Inc. Kod wydany na licencji [MIT](https://bitbucket.org/mgoniprowski/kryptografia/src/1aa70a77eda842be6a50754daeef0de1a406c406/LICENSE.md?at=master&fileviewer=file-view-default).
+Copyright 2015 Niesuch, Zecior, Mgonip, Inc. Kod wydany na licencji [MIT](https://github.com/mgonip/Kryptografia/blob/master/LICENSE.md).
